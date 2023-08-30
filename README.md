@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1 align="center">Hi 👋, I'm Cong Hieu</h1>
-    <h1 align="center" class="rainbow-text">WELCOME TO MY GITHUB PROFILE</h1>
+    <h1 align="center">WELCOME TO MY GITHUB PROFILE</h1>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=phanconghieu29&label=Profile%20views&color=0e75b6&style=flat" alt="phanconghieu29" /> </p>
     <div align="center">
         <img src="https://media0.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47grm93x1grsxc1dmdqa7ged0ojsyrqtlxmdpi534j&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="ảnh gif">
