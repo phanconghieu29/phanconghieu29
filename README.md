@@ -12,6 +12,7 @@
         <img src="https://media0.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47grm93x1grsxc1dmdqa7ged0ojsyrqtlxmdpi534j&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="ảnh gif">
     </div>
     <hr width="100%">
+    
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/phanconghieu29) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/phan_conghieu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/phanconghieu29) 
 
